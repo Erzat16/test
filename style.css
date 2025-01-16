@@ -1,0 +1,10 @@
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: black; 
+    cursor: pointer;
+}
+
+.box.active {
+    background-color: blue;
+}
